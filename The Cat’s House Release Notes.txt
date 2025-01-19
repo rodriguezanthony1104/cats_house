@@ -1,0 +1,29 @@
+The Cat’s House Release Notes
+
+Game Project: The Cat’s House
+Creator: Anthony Rodriguez
+Version: 1.1
+Date: 1/16/2025
+
+New features
+■	Added some extra dialogue to the second room
+■	Signs can be found around with random “tips”
+■	New rooms have been added at the end with extra dialogue
+	○	New music has been added to these rooms appropriately
+■	A secret easter egg room can be found
+
+Fixes
+■	The end of the game can now be accessed via either exit door
+■	The doors leading to the next room have been moved to only be accessible when entering the next room
+
+Improvements (of existing features)
+■	The final room has more furniture, with some interactivity
+■	Extra dialogue at the beginning of the game provides more story context
+
+
+Known Bugs
+■	Players can pass through the first door without the key. They cannot enter the next room, but it can be seen as immersion breaking.
+■	When you enter the secret room, the music stops playing. However, when you interact with an object, the music returns.
+
+
+
